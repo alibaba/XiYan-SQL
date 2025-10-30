@@ -146,7 +146,7 @@ Product Ding Group: 94725009401
 ## Citation
 If you find our work helpful, we welcome you to cite us.
 
-bibtex
+```bibtex
 @article{XiYanSQL,
       title={XiYan-SQL: A Novel Multi-Generator Framework For Text-to-SQL}, 
       author={Yifu Liu and Yin Zhu and Yingqi Gao and Zhiling Luo and Xiaoxia Li and Xiaorong Shi and Yuntao Hong and Jinyang Gao and Yu Li and Bolin Ding and Jingren Zhou},
@@ -156,3 +156,4 @@ bibtex
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2507.04701}, 
 }
+```
