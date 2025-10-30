@@ -1,0 +1,9 @@
+{
+  "bird_train_processed_data_train_nl2sqlite": {
+    "data_path": "data_warehouse/bird_train/processed_data/train_nl2sqlite.json",
+    "sample_num": -1,
+    "sum_num": 221,
+    "task_name": "nl2sqlite",
+    "data_aug": true
+  }
+}
