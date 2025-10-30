@@ -1,7 +1,7 @@
 # XiYan-SQLTraining Framework
 
 ## News 🔥
-+ `2025-10-27` 🌟 We are pleased to announce the release of the first version of the XiYan-SQL training framework **XiYan-SQLTraining**. We welcome everyone to use it, and we will be adding more information to enhance this framework in the future.
++ `2025-10-30` 🌟 We are pleased to announce the release of the first version of the XiYan-SQL training framework **XiYan-SQLTraining**. We welcome everyone to use it, and we will be adding more information to enhance this framework in the future.
 
 ## Introduction
 
