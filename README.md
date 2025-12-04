@@ -1,6 +1,6 @@
 # XiYan-SQL 
 
-#### This is the new official Alibaba repository for XiYan-SQL, and the previous collection can be accessed [here](https://github.com/XGenerationLab/XiYan-SQL).
+### This is the new official Alibaba repository for XiYan-SQL, and the previous collection can be accessed [here](https://github.com/XGenerationLab/XiYan-SQL).
 
 ## Latest News🔥
 
