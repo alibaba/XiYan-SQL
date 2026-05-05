@@ -13,6 +13,12 @@
 + `Oct. 20, 2025` 🌟 The training framework of XiYan-SQL, **XiYan-SQLTraining**, will soon be released in this official Alibaba repository. Stay tuned!
 + ...
 
+## 🚀 Join Our Team
+
+Our team is hiring interns and class-of-2027 graduates in Deep Research, LLM post-training, AI Agents, and NL2SQL. 
+With solid technical expertise and cutting-edge algorithm R&D projects, we encourage academic research and top-tier conference publications. Candidates passionate about LLMs are welcome to send their resumes to **zhencang.lyf@alibaba-inc.com**.
+
+
 ## Introduction
 **XiYan-SQL** is an innovative natural language to SQL conversion framework designed to address the performance challenges of large language models in SQL generation tasks. 
 This framework introduces a multi-generator ensemble strategy, enhancing SQL generation capabilities by integrating various SQL LLMs. 
