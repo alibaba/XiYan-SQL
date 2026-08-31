@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments and secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Downloaded data and generated artifacts
+/data/
+/databases/
+/downloads/
+/eval/
+/output/
+/checkpoints/
+/wandb/
+*.log

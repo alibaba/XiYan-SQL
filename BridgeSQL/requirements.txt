@@ -1,0 +1,45 @@
+# =============================================================================
+# BridgeSQL Dependencies
+#
+# Install: pip install -r requirements.txt
+# Tested with: Python 3.12, CUDA 12.8, 4x A100 (80GB)
+# =============================================================================
+
+# Training framework
+ms-swift==3.11.0
+torch==2.8.0
+deepspeed==0.18.1
+accelerate==1.11.0
+peft==0.17.1
+trl==0.24.0
+
+# Inference
+vllm==0.11.0
+
+# Model & tokenization
+transformers==4.57.1
+tokenizers==0.22.1
+sentencepiece==0.2.1
+safetensors==0.6.2
+tiktoken==0.12.0
+
+# Attention
+flash-attn==2.8.1
+
+# Data synthesis
+faker
+openai
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.16.2
+scikit-learn
+sqlalchemy
+tqdm
+requests
+
+# Execution server
+flask
+
+# Logging
+wandb
+datasets==3.6.0
